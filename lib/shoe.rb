@@ -8,6 +8,6 @@ class Shoe
   end 
   
   def cobble 
-    "Your shoe is good as #{@condition}"
+    "Your shoe is good as new!"
   end 
 end 
