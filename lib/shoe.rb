@@ -8,5 +8,6 @@ class Shoe
   end 
   
   def cobble 
+    "Your shoe is good as #{:condition}"
   end 
 end 
